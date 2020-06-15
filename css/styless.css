@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+
+h1 {
+  color: #22746b;
+  font-size:  5.682rem; /* font-style: italic; */
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+}
+.name{
+  color: #22746b;
+  font-size:  5.682rem; /* font-style: italic; */
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  margin-bottom: 20px;
+}
+
+h2{
+  color: #22746b;
+}
+h3, a {
+  color: #11999E;
+}
+
+.one {
+  position: absolute;
+  top: 0.3125rem;
+  right: 31.25rem;
+}
+
+.two {
+  position: absolute;
+  left:500px;
+}
+
+.one-box {
+  background-color: #e3fdfd;
+  padding-bottom: 10%;
+  padding-top: 5%;
+}
+.browser{
+  width: 128px;
+  height: 128px;
+}
+
+.programmer{
+  font-weight: normal;
+  margin : 0;
+}
+
+.bottom-container{
+  background-color: #dbe2ef;
+  margin-bottom: 0;
+}
